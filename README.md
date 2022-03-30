@@ -1,8 +1,6 @@
 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/97623475/160863449-d7216d9d-584c-46e2-8e36-88457a715829.jpg" alt="KarthikaVadivel" />
-- 👋 Hi, I’m @karthika-mv-team..
-- 📫 You can reach me by mail at karthika.vadivel@hammoq.com
 
 <h1 align="center">
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Karthika Vadivel </h1>
@@ -13,7 +11,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
      <img height="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-   <a href= "https://github.com/car-thee-ca/Viola-Jones-Face-Recognition/files/5793724/Karthika_Resume__Version_1_.pdf" >
+   <a href= "https://github.com/karthika-mv-team/karthika-mv-team/files/8381579/karthika_CV.2.pdf" >
      <img height="30" src="https://user-images.githubusercontent.com/42571681/104204802-a7ad9600-53fb-11eb-96aa-2f0bf4718a9d.png" />
    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,6 +20,9 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
+ 
+- 👋 Hi, I’m @karthika-mv-team..
+- 📫 You can reach me by mail at karthika.vadivel@hammoq.com
 
 <!---
 karthika-mv-team/karthika-mv-team is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
