@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/97623475/160863449-d7216d9d-584c-46e2-8e36-88457a715829.jpg" alt="KarthikaVadivel" />
+<p align="center", style="font-family:Montserrat"> <img src="https://user-images.githubusercontent.com/97623475/160863449-d7216d9d-584c-46e2-8e36-88457a715829.jpg" alt="KarthikaVadivel" />
 
 <h1 align="center">
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Karthika Vadivel </h1>
